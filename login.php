@@ -70,7 +70,7 @@ if (isset($_POST['login'])) {
                         <input type="text"
                                name="username"
                                class="form-control border-start-0 ps-0"
-                               placeholder="admin"
+                               placeholder="Masukkan username"
                                style="border-radius: 0 4px 4px 0;"
                                required>
                     </div>
@@ -85,7 +85,7 @@ if (isset($_POST['login'])) {
                         <input type="password"
                                name="password"
                                class="form-control border-start-0 ps-0"
-                               placeholder="Password: admin123"
+                               placeholder="Masukkan password"
                                style="border-radius: 0 4px 4px 0;"
                                required>
                     </div>
